@@ -1,0 +1,7 @@
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalanced\bin\Debug\BacketBalanced.exe.config
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalanced\bin\Debug\BacketBalanced.exe
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalanced\bin\Debug\BacketBalanced.pdb
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalanced\obj\Debug\BacketBalanced.csprojResolveAssemblyReference.cache
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalanced\obj\Debug\BacketBalanced.csproj.CoreCompileInputs.cache
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalanced\obj\Debug\BacketBalanced.exe
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalanced\obj\Debug\BacketBalanced.pdb

@@ -1,0 +1,16 @@
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalancedTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalancedTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalancedTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalancedTests\bin\Debug\BacketBalancedTests.dll
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalancedTests\bin\Debug\BacketBalancedTests.pdb
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalancedTests\bin\Debug\BacketBalanced.exe
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalancedTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalancedTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalancedTests\bin\Debug\BacketBalanced.pdb
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalancedTests\bin\Debug\BacketBalanced.exe.config
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalancedTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalancedTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalancedTests\obj\Debug\BacketBalancedTests.csprojResolveAssemblyReference.cache
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalancedTests\obj\Debug\BacketBalancedTests.csproj.CoreCompileInputs.cache
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalancedTests\obj\Debug\BacketBalancedTests.dll
+c:\users\suvendupc\documents\visual studio 2017\Projects\BacketBalanced\BacketBalancedTests\obj\Debug\BacketBalancedTests.pdb
