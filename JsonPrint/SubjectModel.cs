@@ -8,7 +8,15 @@ namespace JsonPrint
 {
     class SubjectModel
     {
-        public string code;
-        public string grade;
+        public string code
+        {
+            get;
+            set;
+        }
+        public string grade
+        {
+            get;
+            set;
+        }
     }
 }

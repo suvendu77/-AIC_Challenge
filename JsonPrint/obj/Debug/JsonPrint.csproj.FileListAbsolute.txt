@@ -1,0 +1,10 @@
+C:\Users\suvendupc\Desktop\BacketBalanced\JsonPrint\obj\Debug\JsonPrint.csprojResolveAssemblyReference.cache
+C:\Users\suvendupc\Desktop\BacketBalanced\JsonPrint\obj\Debug\JsonPrint.csproj.CoreCompileInputs.cache
+C:\Users\suvendupc\Desktop\BacketBalanced\JsonPrint\bin\Debug\JsonPrint.exe.config
+C:\Users\suvendupc\Desktop\BacketBalanced\JsonPrint\bin\Debug\JsonPrint.exe
+C:\Users\suvendupc\Desktop\BacketBalanced\JsonPrint\bin\Debug\JsonPrint.pdb
+C:\Users\suvendupc\Desktop\BacketBalanced\JsonPrint\bin\Debug\Newtonsoft.Json.dll
+C:\Users\suvendupc\Desktop\BacketBalanced\JsonPrint\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\suvendupc\Desktop\BacketBalanced\JsonPrint\bin\Debug\Newtonsoft.Json.xml
+C:\Users\suvendupc\Desktop\BacketBalanced\JsonPrint\obj\Debug\JsonPrint.exe
+C:\Users\suvendupc\Desktop\BacketBalanced\JsonPrint\obj\Debug\JsonPrint.pdb
